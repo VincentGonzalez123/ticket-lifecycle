@@ -62,10 +62,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
 <h3>Working the Issue</h3>
 
 - Communicate with other departments to ensure the ticket is assigned to the most capable department

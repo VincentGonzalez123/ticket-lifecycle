@@ -68,13 +68,21 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h3>Working the Issue</h3>
 
- - Update
-   - Communicate steps taken towards resolution in text field
+- Communicate with other departments to ensure the ticket is assigned to the most capable department
+   - Initiate warm handoff if necessary
+- Update
+   - Document rogress and investigative measures taken towards resolution in text field
    - Ticket status
 <p>
 <img src="https://i.imgur.com/KMX2yDH.png" height="80%" width="80%"/>
 </p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<h3>Resolution</h3>
+
+ - Once resolved, closed tickets can be viewed under closed tab
+
+<p>
+<img src="https://i.imgur.com/p1F82sh.png" height="80%" width="80%"/>
 </p>
-<br />
+
+<br/>
